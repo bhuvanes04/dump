@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="166" height="54" viewBox="0 0 166 54">
+    <defs>
+        <linearGradient id="v4kh3bjneb" x1="0%" x2="100%" y1="44.709%" y2="55.291%">
+            <stop offset="0%" stop-color="#914800"/>
+            <stop offset="100%" stop-color="#B1651A"/>
+        </linearGradient>
+        <rect id="qbjeg0f9xa" width="166" height="54" x="0" y="0" rx="12.705"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-216 -235) translate(216 235)">
+                <mask id="31dhrlth7c" fill="#fff">
+                    <use xlink:href="#qbjeg0f9xa"/>
+                </mask>
+                <use fill="url(#v4kh3bjneb)" xlink:href="#qbjeg0f9xa"/>
+                <g fill="#FFF" fill-rule="nonzero" stroke="#AE6217" stroke-width=".5" mask="url(#31dhrlth7c)" opacity=".5">
+                    <path d="M24.222 0C26.305 0 28 1.686 28 3.757h0v12.397c0 2.072-1.695 3.757-3.778 3.757h0H3.778C1.695 19.911 0 18.226 0 16.154h0V3.757C0 1.686 1.695 0 3.778 0h0zM25.7 6.934H2.3v9.22c0 .81.663 1.47 1.478 1.47h20.444c.815 0 1.478-.66 1.478-1.47h0v-9.22zm-15.106 5.51c.678 0 1.228.558 1.228 1.245s-.55 1.244-1.228 1.244h0H4.34c-.679 0-1.229-.557-1.229-1.244 0-.687.55-1.245 1.229-1.245h0zm0-3.11c.678 0 1.228.556 1.228 1.244 0 .687-.55 1.244-1.228 1.244h0H4.34c-.679 0-1.229-.557-1.229-1.244 0-.688.55-1.245 1.229-1.245h0zm13.628-7.047H3.778c-.815 0-1.478.66-1.478 1.47h0v.89h23.4v-.89c0-.81-.663-1.47-1.478-1.47h0z" transform="translate(126 17)"/>
+                </g>
+                <text fill="#FFF" font-family="Muli-ExtraBold, Muli" font-size="14" font-weight="600" mask="url(#31dhrlth7c)">
+                    <tspan x="12" y="33">Card Benefits</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
