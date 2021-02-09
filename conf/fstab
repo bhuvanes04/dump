@@ -1,9 +1,0 @@
-#
-UUID=90e29211-2de8-4967-b0fb-16f51a6e464c     /           xfs    defaults,noatime  1   1
-tmpfs /tmp tmpfs defaults,rw,nodev,nosuid,noexec,relatime 0 0
-tmpfs /dev/shm tmpfs defaults,rw,nodev,nosuid,noexec,relatime 0 0
-UUID=4addc0e0-30f4-4ecb-89b0-57896638d1cd /var/tmp xfs nodev,nosuid,noexec 0 2
-UUID=981ba6c8-beca-4ebd-9028-7125d4949c2f /var/log/audit xfs defaults 0 2
-UUID=75ae0833-22b1-4536-9cb4-b15fa5f8cf75 /var/log xfs defaults 0 2
-UUID=fa38f833-0afc-4d32-9cbe-1705c98bdcd8 /home xfs nodev 0 2
-UUID=9e2ea50e-2948-4b3c-90d0-a1372bae58aa /var xfs defaults 0 2
